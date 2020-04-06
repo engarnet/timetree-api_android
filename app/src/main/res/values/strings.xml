@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">timetree-api_android</string>
+    <string name="app_name">TimeTreeClientSample</string>
+    <string name="date_format">yyyy/MM/dd</string>
+    <string name="time_format">HH:mm</string>
 </resources>

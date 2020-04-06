@@ -1,8 +1,7 @@
-package com.engar_net.timetreeclient
+package com.engar_net.timetreeclient.api
 
+import org.junit.Assert.assertEquals
 import org.junit.Test
-
-import org.junit.Assert.*
 
 /**
  * Example local unit test, which will execute on the development machine (host).

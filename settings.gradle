@@ -1,2 +1,3 @@
 rootProject.name='timetree-api_android'
 include ':app'
+include ':api'
