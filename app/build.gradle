@@ -11,7 +11,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.engar_net.timetreeclient"
+        applicationId "com.engarnet.timetree"
         minSdkVersion 21
         targetSdkVersion 28
         versionCode 1

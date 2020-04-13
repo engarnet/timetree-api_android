@@ -5,11 +5,11 @@
 
         <variable
             name="calendar"
-            type="com.engar_net.timetreeclient.model.TCalendar" />
+            type="com.engarnet.timetree.model.TCalendar" />
 
         <variable
             name="adapter"
-            type="com.engar_net.timetreeclient.view.EventRecyclerViewAdapter" />
+            type="com.engarnet.timetree.view.EventRecyclerViewAdapter" />
     </data>
 
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"

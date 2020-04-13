@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.engar_net.timetreeclient.api">
+    package="com.engarnet.timetree.api">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <application>
-        <activity android:name="com.engar_net.timetreeclient.ui.AuthorizeActivity" />
+        <activity android:name="com.engarnet.timetree.ui.AuthorizeActivity" />
     </application>
 </manifest>
